@@ -1,0 +1,11 @@
+Flask
+requests
+gunicorn
+psutil
+py7zr
+aiogram
+flask_cors
+cfonts
+colorama
+rich
+apscheduler
